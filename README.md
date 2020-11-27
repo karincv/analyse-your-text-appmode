@@ -6,7 +6,7 @@ To start in the notebook mode click below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karincv/analyse-your-text-appmode/main?filepath=APP-Analyse-your-text.ipynb)
 
-To start in appmode click below:
+To start in appmode click below. Note: this is pretty slow.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karincv/analyse-your-text-appmode/main?urlpath=%2Fapps%2FAPP-Analyse-your-text.ipynb)
 
