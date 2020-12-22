@@ -10,5 +10,5 @@ To start in appmode click below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karincv/analyse-your-text-appmode/main?urlpath=%2Fapps%2FAPP-Analyse-your-text.ipynb)
 
-*Note:* runing in the appmode is pretty slow. For a quicker version of the app refer to: https://github.com/karincv/analyse_your_text
+**Note:** running in the appmode is pretty slow. For a quicker version of the app refer to: https://github.com/karincv/analyse_your_text
 
